@@ -1,4 +1,1 @@
-# 0x10-https_ssl
-
-#Author
-Agoha Martin Obiarandu<martin4dtruth@gmail.com>
+<h1>My solution to 0x10. HTTPS SSL</h1>
