@@ -35,11 +35,11 @@ defaults
 
 frontend myfrontend
 	bind *:80
-	bind *:443 ssl crt /etc/haproxy/certs/www.martin-4d-best.tech.pem
-	http-request redirect scheme https code 301 if { hdr(Host) -i www.martin-4d-best.tech } !{ ssl_fc }
+	bind *:443 ssl crt /etc/haproxy/certs/www.zeeweb.tech.pem
+	http-request redirect scheme https code 301 if { hdr(Host) -i www.zeeweb.tech } !{ ssl_fc }
 	default_backend myservers
 
 backend myservers
 	balance roundrobin
-	server web-01 52.3.240.246:80 check
-	server web-02 54.90.15.174:80 check	
+	server web-01 100.24.74.197:80 check
+	server web-02 52.91.117.197:80 check	

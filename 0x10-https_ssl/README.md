@@ -1,1 +1,13 @@
-<h1>My solution to 0x10. HTTPS SSL</h1>
+```diff
+
+- 0x03. AirBnB clone - Deploy static
+- DevOps
+- Python
+- SysAdmin
+- Scripting
+- CI/CD
+
++ Author:
++ Afolabi John Oluwaseun
+
+```
