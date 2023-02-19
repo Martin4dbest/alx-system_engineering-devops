@@ -2,7 +2,7 @@
 https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html
 
 
-## Create New Users
+## This Creates New Users
 https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
 ## Replicate
