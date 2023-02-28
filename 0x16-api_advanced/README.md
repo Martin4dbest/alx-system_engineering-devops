@@ -1,1 +1,1 @@
-In this project, you will find Pythonscripts related with API REddit
+# Solutions to tasks on 0x16. API advanced
