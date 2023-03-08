@@ -1,1 +1,1 @@
-Solution to Application server
+Solution to task on Application server
